@@ -1,1 +1,1 @@
-# kanop_uz
+# kanop-uz
