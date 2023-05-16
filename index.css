@@ -606,6 +606,11 @@ header ul li a:hover{
 	}
 }
 @media screen and (max-width: 768px) {
+	
+	#hero .container{
+		background: unset;
+	}
+	
 	.container, .parent, .child, #about .parent-1row {
 		width: 100%!important;
 	}
